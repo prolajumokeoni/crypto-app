@@ -4,7 +4,6 @@ Crypto app is an application where users can get information about the crypto ma
 
 
 ### Live demo
-- Link coming soon
  [crypto-app](https://6274fd2b09ac785e9138b4aa--prcryptoapp.netlify.app/)
 
  
@@ -52,4 +51,4 @@ Thanks to  Javascript  Mastery for this amazing [course](https://www.youtube.com
 
 # 📝 License
 
-This project is [MIT](https://github.com/prolajumokeoni/metrics-web/blob/development/LICENSE) licensed.
+This project is [MIT](https://github.com/prolajumokeoni/crypto-app/blob/add-license-1/LICENSE) licensed.
