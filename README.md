@@ -5,7 +5,7 @@ Crypto app is an application where users can get information about the crypto ma
 
 ### Live demo
 - Link coming soon
- <!-- [metrics-web](https://prometrics.herokuapp.com/) -->
+ [crypto-app](https://6274fd2b09ac785e9138b4aa--prcryptoapp.netlify.app/)
 
  
 ### To get a local copy up and running follow these simple steps.
